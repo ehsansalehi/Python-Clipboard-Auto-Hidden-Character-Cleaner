@@ -25,8 +25,8 @@ characters you define in `characters.txt`
 Clone the repository and install requirements:
 
 ``` bash
-git clone https://github.com/your-username/clipboard-cleaner.git
-cd clipboard-cleaner
+git clone https://github.com/ehsansalehi/Python-Clipboard-Auto-Hidden-Character-Cleaner.git
+cd Python-Clipboard-Auto-Hidden-Character-Cleaner
 pip install -r requirements.txt
 ```
 
@@ -95,15 +95,10 @@ Invisible characters (actual characters, not escaped):
 -   Works on Windows, Linux, and macOS\
 -   If running on Linux, you may need `xclip` or `xsel` installed
 
-------------------------------------------------------------------------
-
-## 📄 License
-
-MIT License
 
 ------------------------------------------------------------------------
 
 ## ✨ Author
 
-Your Name\
-GitHub: https://github.com/your-username
+Ehsan Salehi
+GitHub: https://github.com/ehsansalehi
